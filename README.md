@@ -1,5 +1,8 @@
 # HostelSync — Smart Hostel Management & Monitoring Platform
 
+## Live Demo
+https://hostel-sync-beige.vercel.app
+
 A full-stack MERN web application for managing hostel operations in educational institutions.  
 Built for D.Y. Patil College of Engineering, Akurdi — T.E. Semester VI Internship Project.
 
