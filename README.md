@@ -258,3 +258,29 @@ Open your browser at **http://localhost:3000** and log in.
 - Visitor entry/exit log module
 - Email/SMS notifications integration
 - Export reports to PDF/Excel
+
+## Dashboard
+<img width="1917" height="873" alt="Screenshot 2026-07-08 191343" src="https://github.com/user-attachments/assets/0b712081-66f7-4374-8ee2-8871f1088b9f" />
+
+## Users
+<img width="1896" height="863" alt="Screenshot 2026-07-08 191407" src="https://github.com/user-attachments/assets/ebc72e49-8ef4-451e-9eb1-0010323f0005" />
+
+## Rooms
+<img width="1897" height="866" alt="Screenshot 2026-07-08 191423" src="https://github.com/user-attachments/assets/a987ad8c-f7ed-4daa-8338-ec1268a3a27e" />
+
+## Complaints
+<img width="1913" height="866" alt="Screenshot 2026-07-08 191440" src="https://github.com/user-attachments/assets/53baaee6-4d95-4cdd-b139-1ba2485871e6" />
+
+## Leave Requests
+<img width="1916" height="871" alt="Screenshot 2026-07-08 191458" src="https://github.com/user-attachments/assets/7822c5ca-511f-4f76-86bb-ec83d23a83e8" />
+
+## Attendance
+<img width="1901" height="872" alt="Screenshot 2026-07-08 191517" src="https://github.com/user-attachments/assets/19198ae9-dea1-4fa4-ba7b-916da892b95e" />
+
+## Mess Menu
+<img width="1916" height="868" alt="Screenshot 2026-07-08 191540" src="https://github.com/user-attachments/assets/c1ce7100-6ccb-4a70-b107-2b7ec724bb05" />
+
+## Fees
+<img width="1917" height="866" alt="Screenshot 2026-07-08 191600" src="https://github.com/user-attachments/assets/98c15f8c-bc80-4b0a-a552-4b0af3ca3096" />
+
+
